@@ -9,4 +9,6 @@ An OEM SSD is custom-made by a company for use in other manufacturers' products 
 ## List
 
 ### SK Hynix
- - [SK Hynix HFM512GD3JX016N 512GB](./benchmarks/sk_hynix/SK%20Hynix%20HFM512GD3JX016N/README.md)
+
+ - [SK Hynix HFM512GD3JX013N 512GB (ASUS TUF Gaming A15 FA506IC-HN005W)](./benchmarks/sk_hynix/SK%20Hynix%20HFM512GD3JX013N/README.md)
+ - [SK Hynix HFM512GD3JX016N 512GB (Acer Aspire 7 Gaming A715-42G)](./benchmarks/sk_hynix/SK%20Hynix%20HFM512GD3JX016N/README.md)
