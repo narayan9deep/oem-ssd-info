@@ -22,9 +22,20 @@
 
 ![Alt text](<Screenshot 2024-01-28 122358-1.png>)
 
-In CrystalDiskMark benchmark for NVMe SSDs (Settings->NVMe SSD), the sequential read and write speeds were 3500MB/s and 3000MB/s respectively, whereas the random read and write speeds were about 2100MB/s and 1100MB/s respectively. Since this is an OEM SSD, there are no advertised read and write speeds on the device manufacturer's website.
+In the CrystalDiskMark benchmark for NVMe SSDs (Settings->NVMe SSD), the sequential read and write speeds were 3500MB/s and 3000MB/s respectively, while the random read and write speeds were approximately 2100MB/s and 1100MB/s respectively. Since this is an OEM SSD, there are no advertised read and write speeds on the device manufacturer's website.
 
 To better understand CrystalDiskMark benchmarks and how you can perform this benchmark on your own drive, checkout [this video](https://www.youtube.com/watch?v=JI8QS74Xz38)
+
+## Real world performance
+
+| Sl. No. | Task                        | Size | Test 1 (seconds) | Test 2 (seconds) | Test 3 (seconds) | Average (seconds) |
+| ------- | --------------------------- | ---- | ---------------- | ---------------- | ---------------- | ----------------- |
+| 1       | Single 4K Video Copy - 20GB | 20GB | 45.21            | 45.21            | 46.01            | 45                |
+| 2       | Folder Copy - 10GB          | 10GB | 20.01            | 21.21            | 20.57            | 20                |
+
+Interestingly, during both the above operations, the copy operation started with speeds of about 1GB/s, however it fell down to as low as 320MB/s.
+
+![Alt text](<Screenshot (640).png>)
 
 ## Relevant Links:
  - Official Website: OEM SSD, no information available on manufacturer's website, visit official [SK Hynix Website](https://ssd.skhynix.com/).
