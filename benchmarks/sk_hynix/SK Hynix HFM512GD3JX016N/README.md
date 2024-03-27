@@ -5,15 +5,21 @@
 ![Alt text](image-1.png)
 
 ## Test System
-**Device Type (Desktop/Laptop/Handheld):** Laptop
-<br>**Device Name:** Acer Aspire 7 Gaming A715-42G
-<br>**CPU:** AMD Ryzen 5 5500U with Radeo Graphics (6c/12t, upto 4.00GHz)
-<br>**GPU:** Nvidia Geforce GTX 1650 4GB
-<br>**RAM (Speed and Type):** 16GB (8GB X 2) 3200MHz DDR4
-<br>**Primary Drive:** SK Hynix HFM512GD3JX016N
-<br>**Secondary Drive (if any):** Seagate ST500LM030-2E717D
-<br>**Operating System:** Windows 11 Home Edition 22H2
-<br>**Link to buy the device:** [Official Website Link](https://store.acer.com/en-in/laptops/gaming/acer-aspire7-gaming-laptop-amd-ryzen5-5500u-a715-42g-nvidia-gtx-1651)
+
+![Alt text](<hwinfo system summary.png>)
+
+|                                           |                                                                                                                                           |
+|-------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| **Device Type (Laptop/Desktop/Handheld)** | Laptop                                                                                                                                    |
+| **Device Name**                           | Acer Aspire 7 Gaming A715-42G                                                                                                             |
+| **CPU**                                   | AMD Ryzen 5 5500U with Radeon Graphics (6c/12t, upto 4.00GHz)                                                                             |
+| **GPU**                                   | Nvidia Geforce GTX 1650 4GB                                                                                                               |
+| **RAM**                                   | 16GB (8GB X 2) 3200MHz DDR4                                                                                                               |
+| **Primary Storage**                       | SK Hynix HFM512GD3JX016N 512GB                                                                                                            |
+| **Secondary Storage (if any)**            | Seagate ST500LM030-2E717D (using SATA to USB converter)                                                                                   |
+| **Operating System**                      | Windows 11 Home  23H2 Build 22631.3296                                                                                                                    |
+| **Link to buy the device**                | [Official Website Link](https://store.acer.com/en-in/laptops/gaming/acer-aspire7-gaming-laptop-amd-ryzen5-5500u-a715-42g-nvidia-gtx-1651) |
+
 
 ## Synthetic Benchmarks
 
@@ -39,11 +45,11 @@ To know more about Winsat, checkout [this video](https://www.youtube.com/watch?v
 
 ![Alt text](<as-ssd-bench HFM512GD3JX016N 27-03-2024 14-19-13.png>)
 
+[Click Here](https://drive.google.com/file/d/17RcVJ7rpCVRppKBu4MkSCY8aM4rwiKiB/view?usp=sharing) to download the results in an XML file.
+
 ### AS SSD (Copy)
 
 ![Alt text](<as-copy-bench HFM512GD3JX016N 27-03-2024 14-16-55.png>)
-
-[Click Here](https://drive.google.com/file/d/17RcVJ7rpCVRppKBu4MkSCY8aM4rwiKiB/view?usp=sharing) to download the results in an XML file.
 
 ### AS SSD (Compression)
 
