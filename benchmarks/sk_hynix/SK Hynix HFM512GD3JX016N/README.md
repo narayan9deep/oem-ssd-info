@@ -8,7 +8,7 @@
 
 ![Alt text](<hwinfo system summary.png>)
 
-|                                           |                                                                                                                                           |
+| **Category**                              | **Specifications**                                                                                                                        |
 |-------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
 | **Device Type (Laptop/Desktop/Handheld)** | Laptop                                                                                                                                    |
 | **Device Name**                           | Acer Aspire 7 Gaming A715-42G                                                                                                             |
@@ -19,7 +19,6 @@
 | **Secondary Storage (if any)**            | Seagate ST500LM030-2E717D (using SATA to USB converter)                                                                                   |
 | **Operating System**                      | Windows 11 Home  23H2 Build 22631.3296                                                                                                                    |
 | **Link to buy the device**                | [Official Website Link](https://store.acer.com/en-in/laptops/gaming/acer-aspire7-gaming-laptop-amd-ryzen5-5500u-a715-42g-nvidia-gtx-1651) |
-
 
 ## Synthetic Benchmarks
 
